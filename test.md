@@ -5,23 +5,11 @@ vOS is minimal and hardened CentOS-based hardened OS ideal for AWS.
 - CentOS 7
 
 ### Releases
-New AMI ID 2018-11-23 11:51:16.779331
-
-New AMI ID 2018-11-23 11:50:59.824836
-
-New AMI ID 2018-11-23 11:49:52.213840
-
-New AMI ID 2018-11-23 11:49:33.501177
-
-New AMI ID 2018-11-23 11:49:27.740887
-
-New AMI ID 2018-11-23 11:49:21.930252
-
-New AMI ID 2018-11-23 11:49:04.008368
-
-New AMI ID 2018-11-23 11:40:12.685977
-
-New AMI ID 2018-11-23 11:34:12.633231
+| AMI ID | AMI Name | Description |
+| ------------- |:-------------:| -----:|
+| col 3 is | right-aligned | $1600 |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | $1 |
 
 ||releases placeholder||
 
