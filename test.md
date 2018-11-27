@@ -11,6 +11,7 @@ vOS is minimal and hardened CentOS-based hardened OS ideal for AWS.
 | ami-0e7996b368f42dabe | 20181127-083201-test-guardians_pzgenio-centos-3.10.0-862.14.4.el7.x86_64 | 20181127-083201-test-guardians_pzgenio-centos-3.10.0-862.14.4.el7.x86_64
 | ami-0e7996b368f42dabe | 20181127-083201-test-guardians_pzgenio-centos-3.10.0-862.14.4.el7.x86_64 | 20181127-083201-test-guardians_pzgenio-centos-3.10.0-862.14.4.el7.x86_64
 | ami-0e7996b368f42dabe | 20181127-083201-test-guardians_pzgenio-centos-3.10.0-862.14.4.el7.x86_64 | 20181127-083201-test-guardians_pzgenio-centos-3.10.0-862.14.4.el7.x86_64
+| ami-0e7996b368f42dabe | 20181127-083201-test-guardians_pzgenio-centos-3.10.0-862.14.4.el7.x86_64 | 20181127-083201-test-guardians_pzgenio-centos-3.10.0-862.14.4.el7.x86_64
 | col 3 is | right-aligned | $1600 |
 | col 2 is | centered | $12 |
 | zebra stripes | are neat | $1 |
